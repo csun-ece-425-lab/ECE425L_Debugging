@@ -1,1 +1,6 @@
-# ECE425L_Debugging
+# ECE 425L - Microprocessor Systems Lab
+**CSU Northridge**
+
+**Department of Electrical and Computer Engineering**
+
+## Debugging Tutorial
